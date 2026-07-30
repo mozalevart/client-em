@@ -175,14 +175,14 @@
       ],
       "clean": true
     },
-    "server": {
-      "ip": "fsn4.joinserver.xyz",
-      "port": 25763
-    },
     "config": {
       "version": "0.1.0",
       "url": "https://github.com/mozalevart/client-em/releases/download/test/config.zip",
       "clean": false
     }
   }
+  "server": {
+      "ip": "fsn4.joinserver.xyz",
+      "port": 25763
+  },
 }
