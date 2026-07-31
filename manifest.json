@@ -8,8 +8,12 @@
       "url": "https://github.com/mozalevart/client-em/releases/download/test/core.zip",
       "clean": true
     },
+    "java": {
+      "url": "https://github.com/mozalevart/client-em/releases/download/test/java.zip",
+      "clean": true
+    },
     "mods": {
-      "version": "26.7.30.0",
+      "version": "26.7.30.1",
       "url": "https://github.com/mozalevart/client-em/releases/download/test/mods.zip",
       "files": [
         "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
@@ -176,13 +180,9 @@
       "clean": true
     },
     "config": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "url": "https://github.com/mozalevart/client-em/releases/download/test/config.zip",
       "clean": false
     }
-  },
-  "server": {
-      "ip": "fsn4.joinserver.xyz",
-      "port": 25763
   }
 }
